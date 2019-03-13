@@ -1,0 +1,41 @@
+
+.black-textarea textarea.md-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid black;
+    box-shadow: 0 1px 0 0 black;
+}
+.black-textarea.md-form .prefix.active {
+    color: black;
+}
+
+
+.active-black-textarea-2 textarea.md-textarea {
+    border-bottom: 1px solid black;
+    box-shadow: 0 1px 0 0 black;
+}
+.active-black-textarea-2.md-form label.active {
+    color: black;
+}
+.active-black-textarea-2.md-form label {
+    color: black;
+}
+.active-black-textarea-2.md-form .prefix {
+    color: black;
+}
+table
+{
+    width:100%;
+    text-align:center;
+    margin-top:50px;
+}
+tr,td,th
+{
+    border-collapse: collapse;
+    border:none;
+    width:100%;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+body
+{
+    padding-bottom:100px;
+}
